@@ -1,0 +1,31 @@
+body{
+    margin:0; /*khoảng cách nội dung*/
+    padding:0;
+}
+.container-fluid{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.sidebar{
+}
+
+.maincontent{
+    
+}
+
+
+.clear{
+    clear: both;
+}
+
+.image img{
+    height: 250px;
+    width: 60%;
+}
+
+ul {
+    list-style-type: none;
+}
+z
