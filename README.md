@@ -18,13 +18,13 @@
 </ul><ul>
 <li>Order Management: CRUD</li>
 </ul><ul>
-<li>Supplier: CRUD</li>
+<li>Supplier Management: CRUD</li>
 </ul><ul>
-<li>Goods Recipt: CRUD</li>
+<li>Goods Recipt Management: CRUD</li>
 </ul><ul>
-<li>Customer: CRUD</li>
+<li>Customer Management: CRUD</li>
 </ul><ul>
-<li>Staff: CRUD</li>
+<li>Staff Management: CRUD</li>
 </ul><ul>
 <li>Statistic: Sales, Best Selling Vegetables, Inventory Vegetables</li>
 </ul><h2>🚀 Screenshots</h2>
