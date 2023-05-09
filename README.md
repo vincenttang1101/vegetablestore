@@ -1,4 +1,4 @@
-<h1>Vegetables Store</h1>
+<h1>Vegetable Store</h1>
 <hr><p>Build a simple vegetable website with php core | OOP - Javascript</p><h2>💻 Technologies Used</h2>
 <hr><ul>
 <li>Programing Language: PHP, Javascript</li>
