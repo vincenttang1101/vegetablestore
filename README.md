@@ -30,7 +30,7 @@
 </ul><h2>🚀 Screenshots</h2>
 <hr><p><img src="https://i.ibb.co/BqHbDCv/Vegetables.png" alt=""></p><p><img src="https://i.ibb.co/TKdZrHV/Profile.png" alt=""></p><p><img src="https://i.ibb.co/7CN47SB/Dashboard-Admin.png" alt=""></p><h2>🛠️ Setup</h2>
 <hr><ol>
-<li>Download project</li>
+<li>Download or clone project</li>
 <li>Import .sql in database folder to mysql</li>
 <li>Change folder root name to vegetablestore</li>
 <li>Run server</li>
