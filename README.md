@@ -7,7 +7,7 @@
 </ul><ul>
 <li>JavaScript Library: Jquery</li>
 </ul><ul>
-<li>Admin Template: AdminLTE 3</li>
+<li>Admin Template: AdminLTE-3</li>
 </ul><ul>
 <li>Integration: Paypal, Chart</li>
 </ul><h2>🧐 Features</h2>
